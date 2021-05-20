@@ -1,3 +1,4 @@
+```
 $ cat /etc/issue
  _ __ ___    __ _ | |_ | |_ | |__  (_)  __ _  ___ 
 | '_ ` _ \  / _` || __|| __|| '_ \ | | / _` |/ __|
@@ -22,3 +23,4 @@ $ kubectl get nodes
 NAME                 STATUS                     ROLES                       AGE   VERSION
 home                 Ready,SchedulingDisabled   husband,father              5y    v1.21.0
 work                 Ready                      it-research,etcd,master     15y   v1.21.0
+```
